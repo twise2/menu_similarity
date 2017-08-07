@@ -1,0 +1,6 @@
+*.jpg
+*.png
+output.json
+*.train*
+scrape.js
+node_modules/*

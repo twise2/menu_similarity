@@ -1,0 +1,2 @@
+export TESSDATA_PREFIX=/usr/local/share/tessdata/
+export TESSDATA=/usr/local/share/tessdata/
